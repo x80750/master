@@ -1,2 +1,3 @@
-# master
-IBM Data Science course 3, GitHub introduction exercise
+# TestRepo
+Testing repository
+This is the first markdown file
